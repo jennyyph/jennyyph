@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->** 
-<h1 align="center">hi there, i'm jenny!</h1>
-<h3 align="center">(a second year bioengineering major fascinated with all things computational and life itself)</h3>
+--> 
+<h1 align="center">hi there, i'm jenny (she/her)!</h1>
+<h3 align="center">(a second year bioengineering major fascinated with life, and anything computational and sciency)</h3>
 
-- 🌱 I’m currently learning: **how to procrastinate less, be someone that people can rely on when needed, and R**
+- 🌱 I’m currently learning: **how to overcome burnout, be someone that people can rely on when needed, and R to apply within a research/lab context**
 
 - 📫 How to reach me: **jphan089@engr.ucr.edu**
+
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
