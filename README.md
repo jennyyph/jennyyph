@@ -14,20 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<h1 align="center">hi there, i'm jenny (she/her)!</h1>
-<h3 align="center">(a second year bioengineering major fascinated with life, and anything computational and sciency)</h3>
+hi there, i'm jenny (she/her), a second year bioengineering student fascinated with life and anything sciency from a computational lens.
 
-- 🌱 I’m currently learning: **how to overcome burnout, be someone that people can rely on when needed, and R to apply within a research/lab context**
+- 🌱 i’m currently learning: **how to overcome burnout, be someone that people can rely on when needed, and R to apply within a research/lab context**
+  
+- 🧠 i'm good at: C++, Latex, MATLAB, Python, and Arduino.
 
-- 📫 How to reach me: **jphan089@engr.ucr.edu**
+- 📚 i'm currently taking: BIEN010, MATH010B, CHEM001A/CHEM01LA
 
-- 
+- 📌 next quarter, i plan on taking: MATH046, CHEM001B/CHEM01LB, PHYS040A, BIOL005A/BIOL020.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jennyph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jennyph" height="30" width="40" /></a>
-</p>
+- 📫 how to reach me: **jphan089 [at] engr [dot] ucr [dot] edu**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- ✉️ my journaling habits, but publicizied: 
 
+- 🔗 if you'd like to connect with me via Linkedin: [make sure to say hi or leave a note, don't be a stranger!](linkedin.com/jennyph)
