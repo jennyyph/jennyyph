@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --> 
 hi there, i'm jenny (she/her), a second year bioengineering student fascinated with life and anything sciency from a computational lens.
 
-- 🌱 i’m currently learning: **how to overcome burnout, be someone that people can rely on when needed, and R to apply within a research/lab context**
+- 🌱 i’m currently learning: how to overcome burnout, be someone that people can rely on when needed, and R to apply within a research/lab context
   
 - 🧠 i'm good at: C++, Latex, MATLAB, Python, and Arduino.
 
