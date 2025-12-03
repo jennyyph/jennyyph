@@ -22,7 +22,7 @@ hi there, i'm jenny (she/her), a second year bioengineering student fascinated w
 
 - 📚 i'm currently taking: BIEN010, MATH010B, CHEM001A/CHEM01LA
 
-- 📌 next quarter, i plan on taking: MATH046, CHEM001B/CHEM01LB, PHYS040A, BIOL005A/BIOL020.
+- 📌 next quarter, i plan on taking: MATH046, CHEM001B, PHYS040A, BIOL005A.
 
 - 📫 how to reach me: **jphan089 [at] engr [dot] ucr [dot] edu**
 
