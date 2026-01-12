@@ -20,9 +20,9 @@ hi there, i'm jenny (she/her), a second year bioengineering student fascinated w
   
 - 🧠 i'm good at: C++, Latex, MATLAB, Python, and Arduino.
 
-- 📚 i'm currently taking: BIEN010, MATH010B, CHEM001A/CHEM01LA
+- 📚 i'm currently taking: MATH046, CHEM001B, PHYS040A, BIOL005A.
 
-- 📌 next quarter, i plan on taking: MATH046, CHEM001B, PHYS040A, BIOL005A.
+- 📌 next quarter, i plan on taking: CHEM001C, BIOL005B, PHYS040B, TBD
 
 - 📫 how to reach me: **jphan089 [at] engr [dot] ucr [dot] edu**
 
